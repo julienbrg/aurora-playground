@@ -243,6 +243,10 @@ Account 0x8722C88e82AbCC639148Ab6128Cd63333B2Ad771 has a total token balance:  1
 
 You can contact us via [Element](https://matrix.to/#/@julienbrg:matrix.org) (preferred), [Twitter](https://twitter.com/julienbrg), [Discord](https://discord.gg/xw9dCeQ94Y), [LinkedIn](https://www.linkedin.com/in/julienberanger/) or [email](mailto:julien@ato.network).
 
+## Notes
+
+My first deployment on Aurora Testnet: [https://testnet.aurorascan.dev/address/0x4A4e8Ac9f3752cb0640beFd2a01C495c108C22A7](https://testnet.aurorascan.dev/address/0x4A4e8Ac9f3752cb0640beFd2a01C495c108C22A7)
+
 ## Credits
 
 This repo is a fork of [this Aurora/Harhat example](https://github.com/aurora-is-near/aurora-examples/tree/main/hardhat/erc20) developed by @0x3bfc ([Aurora](https://github.com/aurora-is-near)).
